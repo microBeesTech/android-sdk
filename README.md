@@ -12,7 +12,7 @@ These are the simple step you have to do before start coding your Android APP:
 </ul></li>
 </ul>
 
-Finally configure your project in accordance with <a href="http://developers.microbees.com/documentation/#getting-started-android">these specifications</a>.</li>
+Finally configure your project in accordance with <a href="http://developers.microbees.com/documentation/#getting-started-android" target="_blank">these specifications</a>.</li>
 </ul>
 
 This SDK can be integrated with all other SDKs which you wish to work.
